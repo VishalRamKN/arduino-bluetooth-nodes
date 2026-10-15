@@ -1,0 +1,11 @@
+# Build output
+build/
+*.hex
+*.bin
+*.elf
+
+# Editor / OS clutter
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,5 @@
+# Consistent line endings for students on Windows, macOS and Linux
+* text=auto
+*.ino text
+*.md  text
+*.sh  text eol=lf
